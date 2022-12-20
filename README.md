@@ -2,6 +2,8 @@
 
 This is a code sample from one of our projects for review. APIs are developed in Laravel.
 # Installation
+PHP 8.1 
+Larave 9.44
 
 1) Clone bitbucket
 ```bash
